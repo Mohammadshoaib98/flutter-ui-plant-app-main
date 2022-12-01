@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325413933766",
+    "firebase_url": "https://ferrous-destiny-362721-default-rtdb.firebaseio.com",
+    "project_id": "ferrous-destiny-362721",
+    "storage_bucket": "ferrous-destiny-362721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325413933766:android:ddeb5ab6e8b9e63773fdc7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325413933766-kvapmt4i51mu2g67i30krnsoh6069fom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_onboarding",
+            "certificate_hash": "7ea62be06bd660ac1f572279816cc24c21f2effe"
+          }
+        },
+        {
+          "client_id": "325413933766-hle64aq3q25eqaqo6q3c95fmfrsntif1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4GQXlKsr4VgPDIzKsUvzvYTgMUZ8MRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325413933766-hle64aq3q25eqaqo6q3c95fmfrsntif1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
